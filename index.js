@@ -18,7 +18,7 @@ let from;
 // add webhook integration to Oracle Cloud
 const webhook = new WebhookClient({
     channel: {
-        url: 'https://oda-1fe69538d2de435aaa7c7044ef2f2ff3-da5.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/cfa05628-795b-4d00-9981-92cb05636c0c,
+        url: 'https://oda-1fe69538d2de435aaa7c7044ef2f2ff3-da5.data.digitalassistant.oci.oraclecloud.com/connectors/v2/listeners/webhook/channels/cfa05628-795b-4d00-9981-92cb05636c0c',
         secret: 'wLjLShhWZfjY1dnoA5VuPHqFiycMFGCs'
     }
 });
